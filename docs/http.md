@@ -1,3 +1,9 @@
+---
+title: HTTP 请求/响应
+type: vue-resource
+order: 3
+---
+
 # HTTP
 
 The http service can be used globally `Vue.http` or in a Vue instance `this.$http`.

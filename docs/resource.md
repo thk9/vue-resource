@@ -1,3 +1,9 @@
+---
+title: 创建资源
+type: vue-resource
+order: 4
+---
+
 # Resource
 
 The resource service can be used globally `Vue.resource` or in a Vue instance `this.$resource`.

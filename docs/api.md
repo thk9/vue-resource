@@ -1,4 +1,10 @@
-# API Reference
+---
+title: API 参考
+type: vue-resource
+order: 6
+---
+
+# API 参考
 
 ## Request
 

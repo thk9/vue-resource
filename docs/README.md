@@ -1,7 +1,13 @@
-# Documentation
+---
+title: 目录
+type: vue-resource
+order: 1
+---
 
-- [Configuration](config.md)
-- [HTTP Requests/Response](http.md)
-- [Creating Resources](resource.md)
-- [Code Recipes](recipes.md)
-- [API Reference](api.md)
+# 文档
+
+- [配置](config.html)
+- [HTTP 请求/响应](http.html)
+- [创建资源](resource.html)
+- [模板代码](recipes.html)
+- [API 参考](api.html)

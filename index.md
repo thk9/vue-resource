@@ -1,3 +1,9 @@
+---
+title: Vue-resource
+type: vue-resource
+order: 0
+---
+
 # vue-resource [![Version](https://img.shields.io/npm/v/vue-resource.svg)](https://www.npmjs.com/package/vue-resource) [![License](https://img.shields.io/npm/l/vue-resource.svg)](https://www.npmjs.com/package/vue-resource) [![Downloads](https://img.shields.io/npm/dt/vue-resource.svg)](https://www.npmjs.com/package/vue-resource)
 
 The plugin for [Vue.js](http://vuejs.org) provides services for making web requests and handle responses using a [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) or JSONP.
@@ -39,15 +45,15 @@ Available on [jsdelivr](https://cdn.jsdelivr.net/vue.resource/1.0.3/vue-resource
 }
 ```
 
-## Documentation
+## 文档
 
-- [Configuration](docs/config.md)
-- [HTTP Requests/Response](docs/http.md)
-- [Creating Resources](docs/resource.md)
-- [Code Recipes](docs/recipes.md)
-- [API Reference](docs/api.md)
+- [配置](docs/config.html)
+- [HTTP 请求/响应](docs/http.html)
+- [创建资源](docs/resource.html)
+- [模板代码](docs/recipes.html)
+- [API 参考](docs/api.html)
 
-## Changelog
+## 更新日志
 
 Details changes for each release are documented in the [release notes](https://github.com/vuejs/vue-resource/releases).
 
@@ -55,6 +61,6 @@ Details changes for each release are documented in the [release notes](https://g
 
 If you find a bug or want to contribute to the code or documentation, you can help by submitting an [issue](https://github.com/vuejs/vue-resource/issues) or a [pull request](https://github.com/vuejs/vue-resource/pulls).
 
-## License
+## 遵循协议
 
 [MIT](http://opensource.org/licenses/MIT)

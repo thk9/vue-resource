@@ -1,4 +1,10 @@
-# Configuration
+---
+title: 配置
+type: vue-resource
+order: 2
+---
+
+# 配置
 
 Set default values using the global configuration.
 
